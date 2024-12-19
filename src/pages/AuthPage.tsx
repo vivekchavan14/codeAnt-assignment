@@ -1,4 +1,4 @@
-import React from 'react'
+
 import SignupPage from '../components/Signup'
 
 function AuthPage() {

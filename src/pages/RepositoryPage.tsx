@@ -3,7 +3,7 @@ import { FaPlus, FaRedoAlt } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 const RepositoryPage = () => {
-  const [repositories, setRepositories] = useState([
+  const [repositories, ] = useState([
     { name: "design-system", language: "React", size: "7320 KB", visibility: "Public", updated: "1 day ago" },
     { name: "codeant-ci-app", language: "Javascript", size: "5871 KB", visibility: "Private", updated: "2 days ago" },
     { name: "analytics-dashboard", language: "Python", size: "4521 KB", visibility: "Private", updated: "5 days ago" },
